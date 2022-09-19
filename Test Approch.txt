@@ -1,0 +1,29 @@
+Test Approch.
+
+Step 1: Create Maven Project adn update pom.xml
+Step 2: Add maven dependencies
+        -Cucumber Java
+	-Cucumber JUnit
+	-Selenium-java
+	-commons-io
+        -JUnit
+
+Step 2: Create folder structure.
+	Under src/test/resource
+        -Drivers
+	-Features
+       : Create folder structure under src/test/java
+	-StepDefinitions
+
+Step 3: Copy Drivers into "Drivers" folder
+
+
+Step 4: Create Calculate.feature under features folder
+
+Step 5: Create CalculatorSteps class under StepDefinitions
+
+Step 6: Create TestRunner classs under StepDefinitions
+
+Step 7 Add Test Report Target folder
+      in HTML format, JSON format and XML format
+     
